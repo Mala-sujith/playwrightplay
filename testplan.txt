@@ -1,1 +1,1 @@
-Test plkan for playwright
+Test plan for playwright
